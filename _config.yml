@@ -1,2 +1,17 @@
-theme: jekyll-theme-cayman
-title: 欢迎访问刘培源的小站
+# 你好，欢迎
+title: 歧路花园
+email:liupeiyuan95@gmail.com
+description: > 简单模型，复杂系统
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner:刘培源
+email:liupeiyuan95@gmail.com
+github_username:Pilearner
+
+# Build settings
+gems: [jekyll-paginate]
+
+markdown: kramdown
+# toc_levels: 1..2
